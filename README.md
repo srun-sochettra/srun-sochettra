@@ -2,9 +2,9 @@
 
 <!--START:BANNER-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=cf7b2c33" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=6414e391" />
-  <img src="./assets/banner-dark.svg?v=cf7b2c33" alt="Srun Sochettra" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=eaf2a62d" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=1ea0d8f6" />
+  <img src="./assets/banner-dark.svg?v=eaf2a62d" alt="Srun Sochettra" width="100%" />
 </picture>
 <!--END:BANNER-->
 
@@ -18,7 +18,7 @@
 
 <details>
 <summary>&nbsp;<b>WORK</b>&nbsp; <!--START:WORK_PREVIEW-->
-<sub>last commit → university-code-archive · HTML · 1d ago</sub>
+<sub>last commit → university-code-archive · HTML · 2d ago</sub>
 <!--END:WORK_PREVIEW--></summary>
 <br />
 
@@ -29,9 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRUN-Sochettra&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;border_radius=8" alt="Top languages" />
 </picture></div>
 
-<div align="center"><img src="./assets/metrics-activity.svg?v=f80a6e5b" alt="Activity" width="100%" /></div>
+<div align="center"><img src="./assets/metrics-activity.svg?v=cc8a48e0" alt="Activity" width="100%" /></div>
 
-<div align="center"><img src="./assets/metrics-social.svg?v=96f15f61" alt="Stars and people" width="100%" /></div>
+<div align="center"><img src="./assets/metrics-social.svg?v=9efc9dd2" alt="Stars and people" width="100%" /></div>
 <!--END:WORK-->
 
 </details>
@@ -43,7 +43,7 @@
 <br />
 
 <!--START:STATS-->
-<div align="center"><img src="./assets/metrics-iso.svg?v=23533238" alt="Contribution isocalendar" width="100%" /></div>
+<div align="center"><img src="./assets/metrics-iso.svg?v=88ba8c68" alt="Contribution isocalendar" width="100%" /></div>
 
 <div align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SRUN-Sochettra&amp;theme=tokyonight&amp;no-frame=true&amp;column=6&amp;margin-w=15&amp;margin-h=15" />
@@ -51,7 +51,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SRUN-Sochettra&amp;theme=tokyonight&amp;no-frame=true&amp;column=6&amp;margin-w=15&amp;margin-h=15" alt="Achievement trophies" />
 </picture></div>
 
-<div align="center"><img src="./assets/metrics-followup.svg?v=0b8fe8d4" alt="Follow-ups and calendar" width="100%" /></div>
+<div align="center"><img src="./assets/metrics-followup.svg?v=b960a9a3" alt="Follow-ups and calendar" width="100%" /></div>
 <!--END:STATS-->
 
 </details>
@@ -63,7 +63,7 @@
 <br />
 
 <!--START:LIFE-->
-<div align="center"><img src="./assets/metrics-anilist.svg?v=da5d92e1" alt="AniList" width="100%" /></div>
+<div align="center"><img src="./assets/metrics-anilist.svg?v=d2dcc92e" alt="AniList" width="100%" /></div>
 <!--END:LIFE-->
 
 </details>
