@@ -2,9 +2,9 @@
 
 <!--START:BANNER-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=6199f399" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=29cb6832" />
-  <img src="./assets/banner-dark.svg?v=6199f399" alt="Srun Sochettra" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=153203a2" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=25f8b089" />
+  <img src="./assets/banner-dark.svg?v=153203a2" alt="Srun Sochettra" width="100%" />
 </picture>
 <!--END:BANNER-->
 
@@ -18,7 +18,7 @@
 
 <details>
 <summary>&nbsp;<b>WORK</b>&nbsp; <!--START:WORK_PREVIEW-->
-<sub>last commit → university-code-archive · HTML · 3d ago</sub>
+<sub>last commit → university-code-archive · HTML · 4d ago</sub>
 <!--END:WORK_PREVIEW--></summary>
 <br />
 
