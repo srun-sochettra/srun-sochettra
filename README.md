@@ -2,9 +2,9 @@
 
 <!--START:BANNER-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=79affb3e" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=9989d8cf" />
-  <img src="./assets/banner-dark.svg?v=79affb3e" alt="Srun Sochettra" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=f8c608a7" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=d5727ffc" />
+  <img src="./assets/banner-dark.svg?v=f8c608a7" alt="Srun Sochettra" width="100%" />
 </picture>
 <!--END:BANNER-->
 
