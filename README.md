@@ -2,9 +2,9 @@
 
 <!--START:BANNER-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=604c70e9" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=ece20326" />
-  <img src="./assets/banner-dark.svg?v=604c70e9" alt="Srun Sochettra" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=b5f40974" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=41dae023" />
+  <img src="./assets/banner-dark.svg?v=b5f40974" alt="Srun Sochettra" width="100%" />
 </picture>
 <!--END:BANNER-->
 
@@ -18,7 +18,7 @@
 
 <details>
 <summary>&nbsp;<b>WORK</b>&nbsp; <!--START:WORK_PREVIEW-->
-<sub>last commit → srun-sochettra.github.io · TypeScript · 10d ago</sub>
+<sub>last commit → srun-sochettra.github.io · TypeScript · 11d ago</sub>
 <!--END:WORK_PREVIEW--></summary>
 <br />
 
